@@ -1,0 +1,213 @@
+* {
+  border: 0%;
+}
+
+header {
+    background-color: rgb(33, 50, 50);
+    margin-bottom: -0.5rem;
+}
+
+.encabezado {
+   display: flex;
+   justify-content: space-around;
+}
+
+.logoCaC {
+    width: 8rem;
+}
+
+.logosEncabezado {
+    display:flex;
+    justify-content: left;
+    padding: 0rem 0rem 0.5rem 8rem;
+}
+
+h1 {
+    font-size: 1.8rem !important;
+    color: aliceblue;
+  padding-top: 1rem;
+}
+
+#barraNav {
+  background-color: rgb(33, 50, 50)!important;
+}
+
+#barraNav a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.8rem;
+  color: aliceblue;
+}
+
+.nav-link1 {
+  color: rgb(24, 169, 24) !important;
+  text-decoration: none;
+}
+
+.carousel-item img {
+  filter: brightness(50%); 
+}
+
+#txtCarousel {
+  width: 40%;
+  margin: 10px auto; 
+ 
+}
+
+#txtCarousel2 {
+  width: 40%;
+  margin: 10px auto; 
+   
+}
+
+#txtCarousel3 {
+  width: 40%;
+  margin: 10px auto; 
+
+}
+
+.oradores {
+  text-align: center; 
+  margin-top: 20px;
+}
+
+h3 {
+  color: aliceblue;
+  text-align: right;
+}
+
+.botonesCarousel {
+  display:flex;
+  justify-content: right;
+}
+   
+#QuieroSerOrador {
+  background-color: rgb(98, 95, 95)!important;
+  border-color: aliceblue; 
+  margin-right: 10px; 
+}
+
+#comprarTickets {
+  background-color: rgb(63, 211, 34)!important;
+  border-color: aliceblue;
+  border: none;   
+}
+
+#tarjetasOradores {
+  margin: 0px 0px 20px;
+}
+
+.card-text1 {
+  color: aliceblue;
+  text-align: right;
+}
+
+.card {
+  margin: 0px 10px;
+}
+
+#SteveJobs1 {
+  background-color: gold;
+  color: black;
+  border: none;
+}
+
+#SteveJobs2 {
+  background-color: rgb(47, 199, 146);
+  color: aliceblue;
+  border: none;
+  }
+
+#BillGates1 {
+  background-color: gold;
+  color: black;
+  border: none;
+}
+
+#BillGates2 {
+  background-color: rgb(47, 199, 146);
+  color: aliceblue;
+  border: none;
+}
+
+#AdaLovelace1 {
+  background-color: rgb(72, 72, 70);
+  color: aliceblue;
+  border: none;
+}
+  
+#AdaLovelace2 {
+  background-color: rgb(183, 46, 114);
+  color: aliceblue;
+  border: none;
+}
+
+.terceraSeccion {
+  display: flex;
+  justify-content: flex-start;
+  }
+
+#TxtBsAs {
+  width: 650px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  padding: 10px;
+  color: aliceblue;
+  background-color: rgb(98, 95, 95);
+}
+
+#conoceMas {
+  background-color: rgb(98, 95, 95)!important;
+  border-color: aliceblue;
+}
+
+.convierteteOrador {
+  padding: 15px;
+}
+
+.convierteteOrador h2 {
+  font-size: 40px;
+}
+
+.tituloFormOrador {
+  text-align: center;
+}
+
+.recuerdaIncluir {
+  font-size: 10px;
+}
+
+#formulario {
+  width: 60%;
+  margin: 10px auto;
+}
+
+#Enviar {
+  background-color: rgb(94, 167, 22);
+  border: none;
+}
+
+footer {
+  background-color: rgb(11, 66, 66);
+}
+
+footer ul li {
+  display: inline-block; 
+}
+
+footer ul li a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  text-decoration: none;
+  color: aliceblue;
+  margin-top: 20px;
+  padding: 0px 30px;
+}
+
+footer div {
+  display:flex;
+  justify-content: center;
+}
+
+.dobleLinea {
+    
+}    
